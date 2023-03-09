@@ -1,6 +1,6 @@
 # myFirstProject
 
-Patika React Native bootcamp'inde yazdığım temel react native kodlarını içermektedir.
+Patika React Native bootcamp'inde yazdığım temel react native kodlarını içermektedir. Custom component konusu işlenmiştir.
 
 <img src="https://user-images.githubusercontent.com/43263983/222984830-fc3cf897-e05a-41d3-a01b-c790267619fd.png" height="844" width="390">
 

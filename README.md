@@ -1,4 +1,4 @@
-# myFirstProject
+# ReactNativeCustomComponentExample
 
 Patika React Native bootcamp'inde yazdığım temel react native kodlarını içermektedir. Custom component konusu işlenmiştir.
 
